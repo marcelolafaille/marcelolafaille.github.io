@@ -1,6 +1,6 @@
-<span id="a">marcelo@host</span>:<span id="b">~</span><span id="c">$</span> cat ml.info
-<span id="a">┌──(marcelo㉿kali)</span>-<span id="b">[~]</span>
-└─$ cat ml.info
+<!-- <span id="a">marcelo@host</span>:<span id="b">~</span><span id="c">$</span> cat ml.info -->
+<span id="a">┌──(</span><span id="c">marcelo㉿kali</span><span id="a">)-[</span>~<span id="a">]</span>
+<span id="a">└─</span><span id="c">$ cat</span> ml.info
 
 Hola, soy Marcelo.
 <p>
