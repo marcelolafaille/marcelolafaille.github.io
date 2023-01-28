@@ -1,6 +1,7 @@
-┌──(marcelo㉿kali)-[~]
-└─$ cat ml.info
 <span id="a">marcelo@host</span>:<span id="b">~</span><span id="c">$</span> cat ml.info
+<span id="a">┌──(marcelo㉿kali)</span>-<span id="b">[~]</span>
+└─$ cat ml.info
+
 Hola, soy Marcelo.
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada fames ac turpis egestas integer. Leo a diam sollicitudin tempor. Montes nascetur ridiculus mus mauris vitae ultricies. Lorem ipsum dolor sit amet consectetur adipiscing elit. Mauris in aliquam sem fringilla. Id volutpat lacus laoreet non curabitur gravida arcu. Quis ipsum suspendisse ultrices gravida dictum fusce ut. Et leo duis ut diam quam nulla porttitor massa id. Sit amet volutpat consequat mauris nunc congue. Suscipit adipiscing bibendum est ultricies integer quis auctor. Sit amet purus gravida quis blandit. Eu turpis egestas pretium aenean pharetra magna ac.
