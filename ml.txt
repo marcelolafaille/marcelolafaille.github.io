@@ -5,4 +5,4 @@
 Hola, soy Marcelo.
 
 <span id="a">┌──(</span><span id="c">marcelo㉿kali</span><span id="a">)-[</span>~<span id="a">]</span>
-<span id="a">└─</span><span id="c">$ sudo rm </span> -rf /
+<span id="a">└─</span><span id="c">$ sudo rm </span> -rf &#47;
