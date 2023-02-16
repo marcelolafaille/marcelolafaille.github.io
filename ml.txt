@@ -19,4 +19,4 @@
 </pre>
 
 <span id="a">┌──(</span><span id="c">marcelo㉿kali</span><span id="a">)-[</span>~<span id="a">]</span>
-<span id="a">└─</span><span id="c">$ sudo rm </span> -rf &#47;
+<span id="a">└─</span><span id="c">$</span>
